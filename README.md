@@ -38,4 +38,5 @@ To run this project locally, simply clone the repository and open `index.html` i
 
 ---
 
-Made with ❤️ by Anurag Singh.
+Made with ❤️ by **Sushovan Jana**
+(Insta: [@bubun_runtime.error](https://www.instagram.com/bubun_runtime.error))
